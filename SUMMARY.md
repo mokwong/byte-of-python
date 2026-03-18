@@ -10,7 +10,7 @@
 * [基础](07.basics.md) ✔
 * [运算符与表达式](08.op_exp.md) ✔
 * [控制流](09.control_flow.md) ✔
-* [函数](10.functions.md)
+* [函数](10.functions.md) ✔
 * [模块](11.modules.md)
 * [数据结构](12.data_structures.md)
 * [解决问题](13.problem_solving.md)
