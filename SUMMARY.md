@@ -7,9 +7,9 @@
 * [关于 Python](04.about_python.md) ✔
 * [安装](05.installation.md) ✔
 * [第一步](06.first_steps.md) ✔
-* [基础](07.basics.md)
-* [运算符与表达式](08.op_exp.md)
-* [控制流](09.control_flow.md)
+* [基础](07.basics.md) ✔
+* [运算符与表达式](08.op_exp.md) ✔
+* [控制流](09.control_flow.md) ✔
 * [函数](10.functions.md)
 * [模块](11.modules.md)
 * [数据结构](12.data_structures.md)
