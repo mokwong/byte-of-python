@@ -28,3 +28,12 @@ print(data_list)
 # [{'name': 'jason', 'dob': '2000-01-01', 'gender': 'male'},
 #  {'name': 'mike', 'dob': '1999-01-01', 'gender': 'male'},
 #  {'name': 'nancy', 'dob': '2001-02-01', 'gender': 'female'}]
+
+d = {'mike': 10, 'lucy': 2, 'ben': 30}
+
+# 按值来升序排序，返回的是二元元组列表
+sorted_d = sorted(d.items(), key=lambda x: x[1], reverse=True)
+print(sorted_d)
+
+sorted_d = sorted(d.items(), key=lambda x: x[1])
+print(sorted_d)
